@@ -1,9 +1,12 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-## How to use it
-1. clone it :)
-2. create db ikontenttest
-3. To get some db tables and data you should run command: php artisan migrate:fesh --seed
+<h5>Prerequisite: php7.1 or higher, apache, composer, MySQL/MariaDB<h5>
+
+## How to start the backend:<br>
+1. Clone it :)
+2. You should run: `composer install` to install the defined dependencies. 
+3. Create db `ikontenttest`
+4. To get some db tables and data you should run command: `php artisan migrate:fresh --seed`
 
 
 <p align="center">
