@@ -2,7 +2,7 @@
 
 <h5>Prerequisite: php7.1 or higher, apache, composer, MySQL/MariaDB<h5>
 
-## How to start the backend:<br>
+## How to start/use it:<br>
 1. Clone it :)
 2. You should run: `composer install` to install the defined dependencies. 
 3. Create db `ikontenttest`
